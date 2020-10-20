@@ -3,4 +3,4 @@ Machine learning project with each day work notebooks written during live stream
 follow the link : for the videos 
 Day 0 : https://www.youtube.com/watch?v=9yrs3eQYwkE 
 Day 1 : https://youtu.be/4NT7Qr8YTxc
-
+Day 2 : https://youtu.be/LgQ0UCveO0Q
